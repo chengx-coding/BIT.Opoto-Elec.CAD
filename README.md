@@ -1,5 +1,5 @@
-BIT.Opoto-Elec.CAD
----
+# BIT.Opoto-Elec.CAD
+
 原项目地址https://git.coding.net/chengx-coding/BIT.Opto-Elec.CAD.git
 
 当年课程设计课最后的作业完成得很应付，现在想来，错过了很多。这门课程实际其实非常有意义。
@@ -9,7 +9,7 @@ BIT.Opoto-Elec.CAD
 总之这门课的意义很丰富，然而当时太随意就错过了很多锻炼。其实哪门课不是这样呢。固然有水课，但设计课程体系的教授们也把很深刻的道理和规划放在了课程体系设计中，只可惜大多数同学们都get不到了。
 
  * 2016/10/29 更新：
-   * 本程序所采用的graphics.h文件来自http://www.easyx.cn/downloads/View.aspx?id=4，为EasyX库(附带graphics.h) 测试版 (2015-10-15 更新)，[这里](https://coding.net/chengx-coding/BIT.Opto-Elec.CAD/EasyX_20151015(beta))有备份
+   * 本程序所采用的graphics.h文件来自http://www.easyx.cn/downloads/View.aspx?id=4，为EasyX库(附带graphics.h) 测试版 (2015-10-15 更新)，[这里](https://coding.net/u/chengx-coding/p/BIT.Opto-Elec.CAD/git/tree/master/EasyX_20151015(beta))有备份
    * 本程序构建代码和编译所用的IDE为Visual Studio 2015
    * 本程序中应用了大量的全局变量，这是一种很不好的编程习惯，当时初学无知。要修正的话基本上就要重构了。
    * 在画等位线的时候，个别情况下会有一两条线有部分错误，原因未知
